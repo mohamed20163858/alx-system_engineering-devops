@@ -1,0 +1,16 @@
+total 36
+-rw-r--r-- 1 root root   0 Mar 14 09:11 
+'
+
+drwxr-xr-x 2 root root 202 Mar 14 12:57 .
+drwxr-xr-x 6 root root 121 Mar 14 07:36 ..
+-rwxr--r-- 1 root root  32 Mar 14 07:47 0-hello_world
+-rwxr--r-- 1 root root  28 Mar 14 07:58 1-confused_smiley
+-rwxr--r-- 1 root root  29 Mar 14 08:00 2-hellofile
+-rwxr--r-- 1 root root  39 Mar 14 08:04 3-twofiles
+-rwxr--r-- 1 root root  29 Mar 14 08:06 4-lastlines
+-rwxr--r-- 1 root root  29 Mar 14 08:08 5-firstlines
+-rwxr--r-- 1 root root  36 Mar 14 08:19 6-third_line
+-rwxr--r-- 1 root root  84 Mar 14 12:44 7-file
+-rw-r--r-- 1 root root  20 Mar 14 07:50 README.md
+-rw-r--r-- 1 root root   0 Mar 14 12:57 test
